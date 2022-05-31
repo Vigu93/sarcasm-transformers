@@ -4,7 +4,7 @@ Data folder contains the emoticon list and sarc source data.
 
 Modelling folder is structured as follows:
 
-sarc-<model>-<type>.ipynb contains the file used for generating and validating the model considered.
+sarc-*model*-*type*.ipynb contains the file used for generating and validating the model considered.
   
 For eg: sarc-bert-raw.ipynb is for modelling sarcasm classifier using raw sarc data with Bert as tranformer.
   
